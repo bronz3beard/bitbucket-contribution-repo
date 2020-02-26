@@ -1,2 +1,2 @@
 console.log("yxdoa")
-console.log("altra")
+console.log("karpb")
