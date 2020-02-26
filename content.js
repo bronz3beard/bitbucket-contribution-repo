@@ -1,2 +1,2 @@
 console.log("yxdoa")
-console.log("arfqu")
+console.log("altra")
