@@ -1,2 +1,2 @@
 console.log("wwtld")
-console.log("fytoy")
+console.log("avgno")
