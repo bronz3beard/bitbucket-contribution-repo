@@ -1,4 +1,4 @@
 <?php
         echo "bqkum";
-        echo "qldya";
+        echo "hbghb";
 ?>
