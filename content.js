@@ -1,2 +1,2 @@
 console.log("wwtld")
-console.log("nxwhg")
+console.log("mqqng")
