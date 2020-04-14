@@ -56,5 +56,5 @@
         echo "updsl";
         echo "vkvor";
         echo "oaipp";
-        echo "kaimc";
+        echo "girpx";
 ?>
