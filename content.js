@@ -1,2 +1,2 @@
 console.log("wwtld")
-console.log("wygwl")
+console.log("ikids")
