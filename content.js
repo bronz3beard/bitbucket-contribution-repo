@@ -1,1 +1,1 @@
-console.log("ktnjn")
+console.log("faibo")
