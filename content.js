@@ -1,3 +1,3 @@
 console.log("yxdoa")
 console.log("gyeim")
-console.log("beymy")
+console.log("istys")
