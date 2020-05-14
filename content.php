@@ -3,5 +3,4 @@
         echo "ovjmy";
         echo "yooix";
         echo "frdic";
-        echo "cihvd";
 ?>
