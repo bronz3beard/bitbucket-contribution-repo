@@ -18,5 +18,4 @@
         echo "mobhf";
         echo "uayog";
         echo "ymyxt";
-        echo "bpnto";
 ?>
