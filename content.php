@@ -30,5 +30,4 @@
         echo "tsigu";
         echo "nxagm";
         echo "wkway";
-        echo "uoliu";
 ?>
