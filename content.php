@@ -21,5 +21,4 @@
         echo "rlnvj";
         echo "aibel";
         echo "mjkex";
-        echo "whtit";
 ?>
