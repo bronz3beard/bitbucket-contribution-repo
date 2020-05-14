@@ -1110,5 +1110,4 @@
         echo "ektko";
         echo "denjp";
         echo "gqcxp";
-        echo "kyort";
 ?>
