@@ -231,5 +231,4 @@
         echo "shkin";
         echo "kptmm";
         echo "uhsmc";
-        echo "phnox";
 ?>
