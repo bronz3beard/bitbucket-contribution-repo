@@ -961,5 +961,4 @@
         echo "mmsep";
         echo "pjcie";
         echo "kjash";
-        echo "dpnua";
 ?>
