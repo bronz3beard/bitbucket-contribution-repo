@@ -1278,5 +1278,4 @@
         echo "pfnbi";
         echo "iyavs";
         echo "wninf";
-        echo "utspp";
 ?>
