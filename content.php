@@ -39,5 +39,4 @@
         echo "frswq";
         echo "cdkpd";
         echo "xdpsu";
-        echo "matiw";
 ?>
