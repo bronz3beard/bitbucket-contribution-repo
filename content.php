@@ -27,5 +27,4 @@
         echo "spewi";
         echo "ipaxy";
         echo "pocbh";
-        echo "sgluq";
 ?>
