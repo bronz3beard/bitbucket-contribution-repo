@@ -24,5 +24,4 @@
         echo "jvkxv";
         echo "xwquy";
         echo "deqec";
-        echo "bbvhc";
 ?>
