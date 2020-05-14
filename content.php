@@ -486,5 +486,4 @@
         echo "uysco";
         echo "smnqi";
         echo "yncoh";
-        echo "tbwvg";
 ?>
