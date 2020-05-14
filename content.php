@@ -3,5 +3,4 @@
         echo "ovjmy";
         echo "yooix";
         echo "bgtjp";
-        echo "tatbc";
 ?>
