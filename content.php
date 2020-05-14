@@ -12,5 +12,4 @@
         echo "gkkld";
         echo "aeqai";
         echo "gjaai";
-        echo "nukvx";
 ?>
