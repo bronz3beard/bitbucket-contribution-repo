@@ -11,5 +11,5 @@
         echo "dxmph";
         echo "gkkld";
         echo "aeqai";
-        echo "dtljs";
+        echo "ksync";
 ?>
