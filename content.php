@@ -26,5 +26,5 @@
         echo "kclmq";
         echo "spewi";
         echo "ipaxy";
-        echo "kigri";
+        echo "pbsyn";
 ?>
