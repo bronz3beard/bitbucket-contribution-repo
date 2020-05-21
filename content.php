@@ -58,5 +58,5 @@
         echo "oaipp";
         echo "xiowg";
         echo "gugdp";
-        echo "rssgr";
+        echo "ampol";
 ?>
