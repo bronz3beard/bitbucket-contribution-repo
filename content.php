@@ -30,5 +30,5 @@
         echo "tsigu";
         echo "nxagm";
         echo "qvpig";
-        echo "fwafw";
+        echo "chifs";
 ?>
