@@ -27,5 +27,5 @@
         echo "spewi";
         echo "ipaxy";
         echo "qhrdy";
-        echo "aalcd";
+        echo "nicms";
 ?>
