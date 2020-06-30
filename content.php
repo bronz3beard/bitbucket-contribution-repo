@@ -49,5 +49,4 @@
         echo "vutod";
         echo "cikir";
         echo "mlwof";
-        echo "xtyom";
 ?>
