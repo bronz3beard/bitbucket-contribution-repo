@@ -150,5 +150,4 @@
         echo "dxewk";
         echo "dmjwh";
         echo "tjoxa";
-        echo "dyteb";
 ?>
