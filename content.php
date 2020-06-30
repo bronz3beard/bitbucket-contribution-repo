@@ -36,5 +36,4 @@
         echo "pqpgp";
         echo "iirdd";
         echo "xssnn";
-        echo "lnmya";
 ?>
