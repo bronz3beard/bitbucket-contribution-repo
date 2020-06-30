@@ -9,5 +9,4 @@
         echo "seand";
         echo "wyaku";
         echo "eyaxb";
-        echo "mlbuw";
 ?>
