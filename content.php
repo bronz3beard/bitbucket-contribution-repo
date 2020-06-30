@@ -30,5 +30,4 @@
         echo "tsigu";
         echo "nxagm";
         echo "qvpig";
-        echo "maypw";
 ?>
