@@ -44,5 +44,4 @@
         echo "hiakq";
         echo "gegxv";
         echo "govfq";
-        echo "sjjrm";
 ?>
