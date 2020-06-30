@@ -530,5 +530,4 @@
         echo "xvwcq";
         echo "fnimp";
         echo "vhssa";
-        echo "cwqcd";
 ?>
