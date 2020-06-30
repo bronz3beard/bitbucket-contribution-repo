@@ -67,5 +67,4 @@
         echo "vispa";
         echo "ntcqn";
         echo "rybnx";
-        echo "xstcq";
 ?>
