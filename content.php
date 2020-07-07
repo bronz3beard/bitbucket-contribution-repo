@@ -51,4 +51,5 @@
         echo "diutx";
         echo "dkile";
         echo "canfs";
+        echo "mychk";
 ?>
