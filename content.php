@@ -28,4 +28,5 @@
         echo "ipaxy";
         echo "gcshd";
         echo "tsigu";
+        echo "nxagm";
 ?>
