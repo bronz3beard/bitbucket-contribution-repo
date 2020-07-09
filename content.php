@@ -274,5 +274,5 @@
         echo "ppgvl";
         echo "rwegb";
         echo "tvmem";
-        echo "tmxda";
+        echo "negua";
 ?>
