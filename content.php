@@ -274,5 +274,5 @@
         echo "ppgvl";
         echo "rwegb";
         echo "tvmem";
-        echo "jgmnl";
+        echo "eprus";
 ?>
