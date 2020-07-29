@@ -1172,4 +1172,6 @@
         echo "kdtrm";
         echo "fyotr";
         echo "ryylc";
+        echo "whofd";
+        echo "ucnpr";
 ?>
