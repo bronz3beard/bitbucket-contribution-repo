@@ -969,5 +969,4 @@
         echo "oulyw";
         echo "cninh";
         echo "qbqqq";
-        echo "pxjkd";
 ?>
