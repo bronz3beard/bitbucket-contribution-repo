@@ -630,5 +630,4 @@
         echo "weckt";
         echo "anbhv";
         echo "vqqli";
-        echo "jfydt";
 ?>
