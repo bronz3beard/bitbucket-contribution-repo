@@ -1343,5 +1343,4 @@
         echo "ejysb";
         echo "xmbwt";
         echo "xynxk";
-        echo "htiuo";
 ?>
