@@ -198,5 +198,4 @@
         echo "glwjl";
         echo "kqfko";
         echo "gubsm";
-        echo "gwctr";
 ?>
