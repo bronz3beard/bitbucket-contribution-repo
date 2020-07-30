@@ -629,5 +629,4 @@
         echo "rulab";
         echo "weckt";
         echo "anbhv";
-        echo "vqqli";
 ?>
