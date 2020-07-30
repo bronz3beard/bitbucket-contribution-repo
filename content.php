@@ -84,5 +84,4 @@
         echo "epnwp";
         echo "ndgmg";
         echo "pmbrq";
-        echo "geqwe";
 ?>
