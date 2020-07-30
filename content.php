@@ -322,5 +322,4 @@
         echo "ipylg";
         echo "pfclt";
         echo "mnibr";
-        echo "vaqly";
 ?>
