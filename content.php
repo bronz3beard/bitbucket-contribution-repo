@@ -1230,5 +1230,4 @@
         echo "tulfk";
         echo "kduxs";
         echo "jofka";
-        echo "ropio";
 ?>
