@@ -822,5 +822,4 @@
         echo "xtpsi";
         echo "doqbk";
         echo "drtgo";
-        echo "ilumy";
 ?>
