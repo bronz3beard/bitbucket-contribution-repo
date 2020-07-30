@@ -280,5 +280,4 @@
         echo "ikhlk";
         echo "fcnlw";
         echo "vaqtm";
-        echo "vcget";
 ?>
