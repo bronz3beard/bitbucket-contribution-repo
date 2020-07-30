@@ -122,5 +122,4 @@
         echo "lptvu";
         echo "egvop";
         echo "tkjjy";
-        echo "jgiuk";
 ?>
