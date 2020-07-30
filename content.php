@@ -1400,5 +1400,4 @@
         echo "sxico";
         echo "mugxb";
         echo "gsyxy";
-        echo "cygpp";
 ?>
