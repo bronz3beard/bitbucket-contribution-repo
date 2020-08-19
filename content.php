@@ -497,4 +497,5 @@
         echo "lqugh";
         echo "lpell";
         echo "uqfps";
+        echo "smoqu";
 ?>
