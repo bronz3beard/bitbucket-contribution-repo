@@ -164,5 +164,4 @@
         echo "txxrx";
         echo "ytpmd";
         echo "qinew";
-        echo "mblna";
 ?>
