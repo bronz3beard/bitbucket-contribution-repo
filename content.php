@@ -500,5 +500,4 @@
         echo "bshoj";
         echo "dtckm";
         echo "gxurt";
-        echo "itftn";
 ?>
