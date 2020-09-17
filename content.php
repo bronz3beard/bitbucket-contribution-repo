@@ -127,5 +127,4 @@
         echo "oclhx";
         echo "lthel";
         echo "nndwy";
-        echo "rwxqa";
 ?>
