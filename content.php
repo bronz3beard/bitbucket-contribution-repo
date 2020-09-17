@@ -1073,5 +1073,4 @@
         echo "sumpu";
         echo "ribrn";
         echo "rxeyw";
-        echo "tgxqj";
 ?>
