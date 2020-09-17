@@ -1406,5 +1406,4 @@
         echo "pmwir";
         echo "xbwpl";
         echo "bsuob";
-        echo "qbuym";
 ?>
