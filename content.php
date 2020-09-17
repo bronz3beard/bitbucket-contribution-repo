@@ -456,5 +456,4 @@
         echo "qyssn";
         echo "amixt";
         echo "ynheu";
-        echo "svnrn";
 ?>
