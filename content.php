@@ -370,5 +370,4 @@
         echo "vsrcm";
         echo "uhmyy";
         echo "hgiws";
-        echo "ndtch";
 ?>
