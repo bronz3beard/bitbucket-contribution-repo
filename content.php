@@ -636,5 +636,5 @@
         echo "grprn";
         echo "miohx";
         echo "nbldb";
-        echo "yaajl";
+        echo "sqrfs";
 ?>
