@@ -128,5 +128,5 @@
         echo "lthel";
         echo "misyk";
         echo "irrah";
-        echo "jqcmd";
+        echo "mwgpl";
 ?>
