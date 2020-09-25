@@ -1527,5 +1527,5 @@
         echo "rwadx";
         echo "rcmdy";
         echo "wbljn";
-        echo "kimas";
+        echo "ftpnc";
 ?>
