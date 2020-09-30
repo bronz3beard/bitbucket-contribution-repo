@@ -1125,5 +1125,4 @@
         echo "ctwnn";
         echo "wxbtj";
         echo "motht";
-        echo "giqmj";
 ?>
