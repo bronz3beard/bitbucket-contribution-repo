@@ -128,5 +128,4 @@
         echo "lthel";
         echo "misyk";
         echo "irrah";
-        echo "rtinf";
 ?>
