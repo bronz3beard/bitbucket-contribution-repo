@@ -246,5 +246,4 @@
         echo "bddbd";
         echo "bcynv";
         echo "pbdic";
-        echo "kulbw";
 ?>
