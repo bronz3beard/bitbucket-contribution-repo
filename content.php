@@ -545,4 +545,5 @@
         echo "fsqrh";
         echo "fuoob";
         echo "oaudx";
+        echo "iqrbn";
 ?>
