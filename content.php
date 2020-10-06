@@ -545,5 +545,5 @@
         echo "fsqrh";
         echo "fuoob";
         echo "oaudx";
-        echo "spdnp";
+        echo "efnrq";
 ?>
