@@ -1470,5 +1470,4 @@
         echo "psweg";
         echo "whjns";
         echo "uqngl";
-        echo "ybowc";
 ?>
