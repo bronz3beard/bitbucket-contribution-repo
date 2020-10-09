@@ -290,5 +290,4 @@
         echo "dxxpv";
         echo "guiab";
         echo "nqlcf";
-        echo "batst";
 ?>
