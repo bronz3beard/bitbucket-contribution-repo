@@ -735,5 +735,4 @@
         echo "quphl";
         echo "cqtdo";
         echo "micbo";
-        echo "rpxpt";
 ?>
