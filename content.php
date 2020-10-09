@@ -639,5 +639,4 @@
         echo "osvad";
         echo "rfcqu";
         echo "wejxy";
-        echo "vptwj";
 ?>
