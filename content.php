@@ -783,5 +783,4 @@
         echo "qkhht";
         echo "wwdie";
         echo "mfuvd";
-        echo "rtkyk";
 ?>
