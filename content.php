@@ -374,5 +374,4 @@
         echo "apief";
         echo "rubbo";
         echo "ymtky";
-        echo "cwnhl";
 ?>
