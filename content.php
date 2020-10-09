@@ -1239,5 +1239,4 @@
         echo "gvjlj";
         echo "pjksr";
         echo "nwywd";
-        echo "aduny";
 ?>
