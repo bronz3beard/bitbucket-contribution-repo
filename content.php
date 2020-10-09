@@ -94,5 +94,4 @@
         echo "bjrsq";
         echo "jmthj";
         echo "mvquo";
-        echo "hecli";
 ?>
