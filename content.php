@@ -1654,5 +1654,5 @@
         echo "ktrnn";
         echo "curmg";
         echo "ywgno";
-        echo "nqcli";
+        echo "nnqun";
 ?>
