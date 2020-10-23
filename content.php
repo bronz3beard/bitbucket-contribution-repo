@@ -560,5 +560,5 @@
         echo "putlu";
         echo "pvyba";
         echo "vokky";
-        echo "irxko";
+        echo "mypen";
 ?>
