@@ -106,5 +106,5 @@
         echo "qptrc";
         echo "nktux";
         echo "qvqfs";
-        echo "svrwo";
+        echo "dewos";
 ?>
