@@ -1251,5 +1251,5 @@
         echo "qyava";
         echo "stept";
         echo "soblj";
-        echo "lpfvr";
+        echo "omeka";
 ?>
