@@ -607,5 +607,4 @@
         echo "tprhs";
         echo "qayxc";
         echo "vpihb";
-        echo "nykyy";
 ?>
