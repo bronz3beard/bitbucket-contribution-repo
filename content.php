@@ -561,5 +561,4 @@
         echo "pvyba";
         echo "vokky";
         echo "jnwoe";
-        echo "ydebi";
 ?>
