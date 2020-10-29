@@ -221,5 +221,4 @@
         echo "kbthg";
         echo "xmjad";
         echo "yjplx";
-        echo "kagpj";
 ?>
