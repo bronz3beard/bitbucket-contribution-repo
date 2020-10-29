@@ -894,5 +894,4 @@
         echo "reppp";
         echo "bousk";
         echo "cgyqy";
-        echo "rswei";
 ?>
