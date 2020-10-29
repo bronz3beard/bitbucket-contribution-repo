@@ -700,5 +700,4 @@
         echo "ctlad";
         echo "lcdvb";
         echo "lfemc";
-        echo "spntt";
 ?>
