@@ -345,5 +345,4 @@
         echo "tligy";
         echo "rdqnl";
         echo "koeff";
-        echo "bfnqy";
 ?>
