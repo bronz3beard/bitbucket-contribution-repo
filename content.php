@@ -181,5 +181,4 @@
         echo "svjyv";
         echo "byyru";
         echo "nohss";
-        echo "jtlrk";
 ?>
