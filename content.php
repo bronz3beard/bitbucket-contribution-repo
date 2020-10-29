@@ -1423,5 +1423,4 @@
         echo "rkupm";
         echo "qjijj";
         echo "rsldl";
-        echo "okipd";
 ?>
