@@ -473,5 +473,4 @@
         echo "ckuan";
         echo "vqsau";
         echo "kefka";
-        echo "sywra";
 ?>
