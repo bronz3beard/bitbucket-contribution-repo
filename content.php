@@ -1195,5 +1195,4 @@
         echo "kjuos";
         echo "tabfe";
         echo "ipbgo";
-        echo "avmis";
 ?>
