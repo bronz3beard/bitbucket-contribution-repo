@@ -995,5 +995,4 @@
         echo "xkbsr";
         echo "cdpfs";
         echo "cxkgv";
-        echo "ldfpo";
 ?>
