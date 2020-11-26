@@ -1312,5 +1312,4 @@
         echo "safya";
         echo "wabph";
         echo "ubhjj";
-        echo "fmffs";
 ?>
