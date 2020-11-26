@@ -433,5 +433,4 @@
         echo "bcfji";
         echo "thpre";
         echo "gfrik";
-        echo "ftrcw";
 ?>
