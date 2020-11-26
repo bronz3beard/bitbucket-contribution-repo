@@ -147,5 +147,4 @@
         echo "vbund";
         echo "sabsy";
         echo "xuoxr";
-        echo "mjucd";
 ?>
