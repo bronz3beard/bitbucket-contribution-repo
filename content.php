@@ -1198,5 +1198,4 @@
         echo "culua";
         echo "tfqly";
         echo "bugjm";
-        echo "vndkg";
 ?>
