@@ -1093,5 +1093,4 @@
         echo "ymoov";
         echo "pnjfc";
         echo "bybkf";
-        echo "gbwqt";
 ?>
