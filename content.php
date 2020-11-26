@@ -564,5 +564,4 @@
         echo "babjw";
         echo "hlici";
         echo "gradv";
-        echo "ndjgw";
 ?>
