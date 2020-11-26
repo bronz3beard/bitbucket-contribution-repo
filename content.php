@@ -110,5 +110,4 @@
         echo "juchn";
         echo "kdmei";
         echo "nvkae";
-        echo "roxga";
 ?>
