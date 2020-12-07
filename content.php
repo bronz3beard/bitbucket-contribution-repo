@@ -1256,4 +1256,5 @@
         echo "ldimw";
         echo "potll";
         echo "agmod";
+        echo "wrlhf";
 ?>
