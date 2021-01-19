@@ -524,5 +524,5 @@
         echo "wtvec";
         echo "sncob";
         echo "kmdta";
-        echo "dqlay";
+        echo "gamka";
 ?>
