@@ -1204,5 +1204,5 @@
         echo "chbxl";
         echo "ljmmp";
         echo "yamih";
-        echo "trdni";
+        echo "pdtsw";
 ?>
