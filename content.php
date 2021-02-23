@@ -1151,4 +1151,5 @@
         echo "otncn";
         echo "xcbsi";
         echo "pfswm";
+        echo "bgitc";
 ?>
