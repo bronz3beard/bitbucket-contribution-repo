@@ -1151,5 +1151,5 @@
         echo "otncn";
         echo "xcbsi";
         echo "pfswm";
-        echo "hgbpw";
+        echo "kyuso";
 ?>
