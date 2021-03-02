@@ -1152,5 +1152,5 @@
         echo "xcbsi";
         echo "pfswm";
         echo "kyuso";
-        echo "ldflx";
+        echo "icqte";
 ?>
