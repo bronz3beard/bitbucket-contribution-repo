@@ -1152,5 +1152,4 @@
         echo "xcbsi";
         echo "pfswm";
         echo "kyuso";
-        echo "wcwwa";
 ?>
