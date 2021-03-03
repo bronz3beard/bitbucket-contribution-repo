@@ -759,5 +759,4 @@
         echo "bvynp";
         echo "ipdnt";
         echo "bdbun";
-        echo "qvtry";
 ?>
