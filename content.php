@@ -1152,5 +1152,5 @@
         echo "xcbsi";
         echo "pfswm";
         echo "wjogr";
-        echo "vrhsp";
+        echo "ogfpv";
 ?>
