@@ -1272,5 +1272,5 @@
         echo "cpuks";
         echo "xlfho";
         echo "esydp";
-        echo "uosqc";
+        echo "urpku";
 ?>
