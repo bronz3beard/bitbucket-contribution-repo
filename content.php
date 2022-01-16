@@ -1,3 +1,3 @@
 <?php
-        echo "qmavi";
+        echo "bokas";
 ?>
