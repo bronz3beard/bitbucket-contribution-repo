@@ -1,3 +1,3 @@
 <?php
-        echo "aaugy";
+        echo "kumib";
 ?>
