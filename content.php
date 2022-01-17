@@ -1,3 +1,3 @@
 <?php
-        echo "bokas";
+        echo "jrank";
 ?>
