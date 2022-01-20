@@ -1,2 +1,2 @@
 console.log("cgibf")
-console.log("kfukn")
+console.log("nipnw")
