@@ -1,1 +1,1 @@
-console.log("tsykg")
+console.log("awalq")
