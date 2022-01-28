@@ -1,2 +1,2 @@
 console.log("weapg")
-console.log("cesti")
+console.log("medis")
