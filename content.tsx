@@ -1,1 +1,1 @@
-console.log("xnbeu")
+console.log("oskql")
