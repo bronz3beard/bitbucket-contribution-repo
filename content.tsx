@@ -1,1 +1,1 @@
-console.log("megiy")
+console.log("wbdam")
