@@ -1,1 +1,1 @@
-console.log("qorxa")
+console.log("samko")
