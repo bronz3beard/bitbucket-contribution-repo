@@ -1,1 +1,1 @@
-console.log("fuvkf")
+console.log("pvita")
