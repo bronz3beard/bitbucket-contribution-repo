@@ -1,2 +1,2 @@
 console.log("aivnr")
-console.log("pubok")
+console.log("prvdu")
