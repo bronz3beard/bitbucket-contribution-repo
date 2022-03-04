@@ -1,1 +1,1 @@
-console.log("spnti")
+console.log("mnmuh")
