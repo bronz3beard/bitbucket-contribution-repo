@@ -1,1 +1,1 @@
-console.log("kxkmd")
+console.log("easom")
