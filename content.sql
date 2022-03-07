@@ -56,3 +56,4 @@ SELECT * from gjiej;
 SELECT * from awnmv;
 SELECT * from gpxyo;
 SELECT * from rrfkx;
+SELECT * from uehpe;
