@@ -70,3 +70,4 @@ SELECT * from laeav;
 SELECT * from cixmp;
 SELECT * from jksyv;
 SELECT * from sowhn;
+SELECT * from lyjop;
