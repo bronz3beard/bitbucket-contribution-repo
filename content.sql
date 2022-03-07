@@ -8,3 +8,4 @@ SELECT * from utbsn;
 SELECT * from jlodm;
 SELECT * from ahwrt;
 SELECT * from bqhhr;
+SELECT * from osjuc;
