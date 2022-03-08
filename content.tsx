@@ -1,2 +1,2 @@
 console.log("tdmni")
-console.log("shfmp")
+console.log("ndnie")
