@@ -19,3 +19,4 @@ SELECT * from mtnai;
 SELECT * from ciyvd;
 SELECT * from qgcck;
 SELECT * from srfob;
+SELECT * from kfvow;
