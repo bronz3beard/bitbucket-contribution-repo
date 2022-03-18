@@ -71,3 +71,4 @@ SELECT * from cixmp;
 SELECT * from jksyv;
 SELECT * from sowhn;
 SELECT * from lyjop;
+SELECT * from oiiav;
