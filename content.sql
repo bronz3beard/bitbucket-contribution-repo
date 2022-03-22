@@ -21,3 +21,4 @@ SELECT * from qgcck;
 SELECT * from srfob;
 SELECT * from kfvow;
 SELECT * from wghlc;
+SELECT * from ddlny;
