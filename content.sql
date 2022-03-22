@@ -10,3 +10,4 @@ SELECT * from ahwrt;
 SELECT * from bqhhr;
 SELECT * from osjuc;
 SELECT * from xqghd;
+SELECT * from ofpio;
