@@ -30,3 +30,4 @@ SELECT * from dhfac;
 SELECT * from erhtd;
 SELECT * from ppsle;
 SELECT * from psvmm;
+SELECT * from fboyi;
