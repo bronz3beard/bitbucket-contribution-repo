@@ -45,3 +45,4 @@ SELECT * from wbgyj;
 SELECT * from pcvyw;
 SELECT * from vlsvn;
 SELECT * from axndd;
+SELECT * from qyvxc;
