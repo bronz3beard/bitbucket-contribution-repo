@@ -60,3 +60,4 @@ SELECT * from uehpe;
 SELECT * from mdrnr;
 SELECT * from rcjjk;
 SELECT * from xbvpi;
+SELECT * from uwwkj;
