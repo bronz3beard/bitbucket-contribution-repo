@@ -60,3 +60,4 @@ SELECT * from eopre;
 SELECT * from pbmrv;
 SELECT * from lewjm;
 SELECT * from tusfd;
+SELECT * from jsrei;
