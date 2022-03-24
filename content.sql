@@ -32,3 +32,4 @@ SELECT * from ppsle;
 SELECT * from psvmm;
 SELECT * from fboyi;
 SELECT * from osruu;
+SELECT * from cdnuu;
