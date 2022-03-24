@@ -46,3 +46,4 @@ SELECT * from pcvyw;
 SELECT * from vlsvn;
 SELECT * from axndd;
 SELECT * from qyvxc;
+SELECT * from bkkam;
