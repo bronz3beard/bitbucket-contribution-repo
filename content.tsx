@@ -1,5 +1,4 @@
 console.log("tdmni")
 console.log("yeesm")
 console.log("hwvsq")
-console.log("ovmdx")
-console.log("jkler")
+console.log("cklwr")
