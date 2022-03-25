@@ -13,3 +13,4 @@ SELECT * from xqghd;
 SELECT * from ofpio;
 SELECT * from lepbg;
 SELECT * from orgwc;
+SELECT * from hndcv;
