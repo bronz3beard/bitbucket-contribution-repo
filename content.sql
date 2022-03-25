@@ -23,3 +23,4 @@ SELECT * from kfvow;
 SELECT * from wghlc;
 SELECT * from qhxlp;
 SELECT * from ljogh;
+SELECT * from raagv;
