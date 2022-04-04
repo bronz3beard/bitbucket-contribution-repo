@@ -4,3 +4,4 @@ SELECT * from mqqsh;
 SELECT * from drcxw;
 SELECT * from yijrr;
 SELECT * from hlikb;
+SELECT * from hipen;
