@@ -48,3 +48,4 @@ SELECT * from axndd;
 SELECT * from qyvxc;
 SELECT * from bkkam;
 SELECT * from rirtd;
+SELECT * from aedgt;
