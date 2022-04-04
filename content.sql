@@ -34,3 +34,4 @@ SELECT * from fboyi;
 SELECT * from osruu;
 SELECT * from cdnuu;
 SELECT * from uisnr;
+SELECT * from jvexo;
