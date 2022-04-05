@@ -77,3 +77,4 @@ SELECT * from rpali;
 SELECT * from wqvmx;
 SELECT * from blvhj;
 SELECT * from xlvld;
+SELECT * from rydem;
