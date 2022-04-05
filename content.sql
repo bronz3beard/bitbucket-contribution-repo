@@ -63,3 +63,4 @@ SELECT * from xbvpi;
 SELECT * from uwwkj;
 SELECT * from mbuec;
 SELECT * from eesfr;
+SELECT * from yebab;
