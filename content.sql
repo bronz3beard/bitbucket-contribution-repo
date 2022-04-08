@@ -6,3 +6,5 @@ SELECT * from ncfif;
 SELECT * from unrey;
 SELECT * from utbsn;
 SELECT * from jlodm;
+SELECT * from ahwrt;
+SELECT * from bqhhr;
