@@ -78,3 +78,5 @@ SELECT * from wqvmx;
 SELECT * from blvhj;
 SELECT * from xlvld;
 SELECT * from rydem;
+SELECT * from nhvku;
+SELECT * from lkncc;
