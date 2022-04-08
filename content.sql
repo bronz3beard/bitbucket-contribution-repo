@@ -36,3 +36,5 @@ SELECT * from cdnuu;
 SELECT * from uisnr;
 SELECT * from jvexo;
 SELECT * from pgsrw;
+SELECT * from hjgya;
+SELECT * from whmwo;
