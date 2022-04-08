@@ -16,3 +16,5 @@ SELECT * from orgwc;
 SELECT * from hndcv;
 SELECT * from ycmmc;
 SELECT * from mtnai;
+SELECT * from ciyvd;
+SELECT * from qgcck;
