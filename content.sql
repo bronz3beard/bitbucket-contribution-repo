@@ -6,3 +6,5 @@ SELECT * from yijrr;
 SELECT * from hlikb;
 SELECT * from hipen;
 SELECT * from fscro;
+SELECT * from udeom;
+SELECT * from uxchk;
