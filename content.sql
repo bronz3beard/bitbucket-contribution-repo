@@ -26,3 +26,5 @@ SELECT * from ljogh;
 SELECT * from raagv;
 SELECT * from bhxbg;
 SELECT * from nctbw;
+SELECT * from dhfac;
+SELECT * from erhtd;
