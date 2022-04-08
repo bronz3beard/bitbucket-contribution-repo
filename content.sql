@@ -50,3 +50,5 @@ SELECT * from bkkam;
 SELECT * from rirtd;
 SELECT * from aedgt;
 SELECT * from wovbj;
+SELECT * from eiemf;
+SELECT * from atovu;
