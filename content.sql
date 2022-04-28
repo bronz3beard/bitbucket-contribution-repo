@@ -39,3 +39,4 @@ SELECT * from pgsrw;
 SELECT * from hjgya;
 SELECT * from whmwo;
 SELECT * from hxruc;
+SELECT * from iknsu;
