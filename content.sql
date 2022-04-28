@@ -67,3 +67,4 @@ SELECT * from jwsrg;
 SELECT * from smcbu;
 SELECT * from jenmi;
 SELECT * from fjyyn;
+SELECT * from cwfvf;
