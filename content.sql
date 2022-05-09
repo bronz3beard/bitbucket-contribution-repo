@@ -82,3 +82,4 @@ SELECT * from nhvku;
 SELECT * from lkncc;
 SELECT * from vbxjj;
 SELECT * from paadu;
+SELECT * from uqxio;
