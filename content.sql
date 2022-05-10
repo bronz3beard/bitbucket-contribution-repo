@@ -68,3 +68,5 @@ SELECT * from dwhmx;
 SELECT * from aucht;
 SELECT * from laeav;
 SELECT * from cixmp;
+SELECT * from jksyv;
+SELECT * from sowhn;
